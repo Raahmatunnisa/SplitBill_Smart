@@ -6,6 +6,5 @@ __pycache__/
 node_modules/
 dist/
 frontend/dist/
-services/receipt_ocr_service/media/
 *.log
 .DS_Store
